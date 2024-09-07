@@ -1,2 +1,2 @@
 This is my index page.
-Today i am leaning get session.
+Today i am learning get session.
